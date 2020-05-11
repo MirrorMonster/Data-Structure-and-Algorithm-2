@@ -16,13 +16,7 @@ namespace Recursion
             int[] x = new int[n+1];
             int[] s = new int[n+1];
             x[0] = 1;
-            //int[] xi = new int[] { 1, 2, 3, 4 };
-            //bool[] c = new bool[xi.Length];
-            //int[] x = new int[xi.Length + 1];
-
-            //Permutation(1, xi, x);
-            //NumberAnalys2(6, 1, xi, x);
-            //BinaryCombination(0, n, x);
+            
             NumberAnalys(n, 1, x, s);
 
         }
