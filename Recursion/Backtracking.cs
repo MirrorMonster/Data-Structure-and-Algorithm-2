@@ -112,7 +112,16 @@ namespace Recursion
             }
         }
 
+        public static void HellWorld()
+        {
+            Console.WriteLine("    ");
+        }
 
+
+        public static void HAHA()
+        {
+
+        }
         
 
     }   
