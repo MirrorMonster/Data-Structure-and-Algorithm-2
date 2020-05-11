@@ -10,7 +10,7 @@ namespace Stack_And_Queu
     {
         public CustomNode(T x)
         {
-            Console.WriteLine("Hi! ban Thinh")
+            Console.WriteLine("Hi! ban Thinh"); 
         }
     }
 }
