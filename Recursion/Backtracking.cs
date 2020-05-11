@@ -116,6 +116,12 @@ namespace Recursion
         {
             Console.WriteLine("    ");
         }
+
+
+        public static void HAHA()
+        {
+
+        }
         
 
     }   
