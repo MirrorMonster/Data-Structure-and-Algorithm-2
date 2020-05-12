@@ -111,18 +111,5 @@ namespace Recursion
                 else x[i] = 0;
             }
         }
-
-        public static void HellWorld()
-        {
-            Console.WriteLine("    ");
-        }
-
-
-        public static void HAHA()
-        {
-
-        }
-        
-
     }   
 }
