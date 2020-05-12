@@ -8,6 +8,7 @@ using System.Text;
 
 namespace Recursion
 {
+    // create by mr.spectre(dam thinh)
     class Backtracking
     {
         public static void Run()
